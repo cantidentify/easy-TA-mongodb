@@ -37,7 +37,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Atip Yongstar - [LinkedIn](https://www.linkedin.com/in/atip-yongstar-5118b5186/) - atipdev.y@gmail.com
 
-Project Link: [https://github.com/cantidentify/easy-TA](https://github.com/cantidentify/easy-TA)
+Project Link: [https://github.com/cantidentify/easy-TA-mongodb](https://github.com/cantidentify/easy-TA-mongodb)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
